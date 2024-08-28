@@ -1,0 +1,36 @@
+{
+    "88376890": {
+        "account_number": "88376890",
+        "account_holder": "Dinith Senarathna",
+        "balance": 35740.0,
+        "transactions": [
+            {
+                "action": "Transfer from 70048586",
+                "amount": 35740.0,
+                "date_time": "2024-08-28 09:02:24"
+            }
+        ]
+    },
+    "70048586": {
+        "account_number": "70048586",
+        "account_holder": "Shamith Akalanka",
+        "balance": 51760.0,
+        "transactions": [
+            {
+                "action": "Deposit",
+                "amount": 100000.0,
+                "date_time": "2024-08-28 09:01:39"
+            },
+            {
+                "action": "Transfer to 88376890",
+                "amount": 35740.0,
+                "date_time": "2024-08-28 09:02:24"
+            },
+            {
+                "action": "Withdraw",
+                "amount": 12500.0,
+                "date_time": "2024-08-28 09:03:09"
+            }
+        ]
+    }
+}
